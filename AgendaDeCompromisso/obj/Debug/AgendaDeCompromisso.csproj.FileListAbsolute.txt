@@ -1,0 +1,10 @@
+C:\Users\Silas\Documents\Projeto Agenda\AgendaDeCompromisso\AgendaDeCompromisso\bin\Debug\AgendaDeCompromisso.exe.config
+C:\Users\Silas\Documents\Projeto Agenda\AgendaDeCompromisso\AgendaDeCompromisso\bin\Debug\AgendaDeCompromisso.exe
+C:\Users\Silas\Documents\Projeto Agenda\AgendaDeCompromisso\AgendaDeCompromisso\bin\Debug\AgendaDeCompromisso.pdb
+C:\Users\Silas\Documents\Projeto Agenda\AgendaDeCompromisso\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.csproj.AssemblyReference.cache
+C:\Users\Silas\Documents\Projeto Agenda\AgendaDeCompromisso\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.Form1.resources
+C:\Users\Silas\Documents\Projeto Agenda\AgendaDeCompromisso\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.Properties.Resources.resources
+C:\Users\Silas\Documents\Projeto Agenda\AgendaDeCompromisso\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.csproj.GenerateResource.cache
+C:\Users\Silas\Documents\Projeto Agenda\AgendaDeCompromisso\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.csproj.CoreCompileInputs.cache
+C:\Users\Silas\Documents\Projeto Agenda\AgendaDeCompromisso\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.exe
+C:\Users\Silas\Documents\Projeto Agenda\AgendaDeCompromisso\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.pdb
