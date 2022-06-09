@@ -18,3 +18,4 @@ D:\ProjetoAgenda\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.csproj.Genera
 D:\ProjetoAgenda\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.csproj.CoreCompileInputs.cache
 D:\ProjetoAgenda\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.exe
 D:\ProjetoAgenda\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.pdb
+D:\ProjetoAgenda\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.AcessoNegado.resources

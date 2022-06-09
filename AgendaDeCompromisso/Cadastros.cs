@@ -11,8 +11,8 @@ namespace AgendaDeCompromisso
 
         private static User[] users =
         {
-            new User(){Login = 22 , Senha = 1987},
-            new User(){Login = 16, Senha = 1993}
+            new User(){Login = "22" , Senha = "1987"},
+            new User(){Login = "16", Senha = "1993"}
 
         };
         private static User  UserLogado = null;
@@ -24,7 +24,7 @@ namespace AgendaDeCompromisso
 
         }
 
-        public static bool Login(int dia, int ano)
+        public static bool Login(string dia, string ano)
         {
             foreach(User x in users)
             {

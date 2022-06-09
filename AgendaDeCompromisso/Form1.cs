@@ -19,20 +19,64 @@ namespace AgendaDeCompromisso
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            List<Cliente> client = new List<Cliente>();
+
+        }
+
+        private void btnLogar_Click(object sender, EventArgs e)
+        {
 
 
-            client.Add(new Cliente(030820, "HELLWIG MATERIAIS DE CONSTRUCAO LTDA", "5332215615", "53991232384", "megafixadores@gmail.com"));
-            client.Add(new Cliente(024072, "I D ALVES", "86 30257897", "86988791492", "kopaf.parafusos@hotmail.com"));
-            client.Add(new Cliente(024072, "I D ALVES", "86 30257897", "86988791492", "kopaf.parafusos@hotmail.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-           
-            foreach(Cliente x in client)
+            if (textBox1.Text == "" && textBox2.Text == "")
             {
-                ListBox1.Text = x.Razao.ToString() + x.Codigo.ToString() + x.Telefone.ToString();
+                MessageBox.Show("Necessário realizar um Login");
+                return;
+            }
+
+            string dia = textBox1.Text;
+            string ano = textBox2.Text;
+
+            if (Cadastros.Login(dia, ano))
+            {
+                List<Cliente> client = new List<Cliente>();
+
+
+                client.Add(new Cliente(030820, "HELLWIG MATERIAIS DE CONSTRUCAO LTDA", "5332215615", "53991232384", "megafixadores@gmail.com"));
+                client.Add(new Cliente(024072, "I D ALVES", "86 30257897", "86988791492", "kopaf.parafusos@hotmail.com"));
+                client.Add(new Cliente(024072, "I D ALVES", "86 30257897", "86988791492", "kopaf.parafusos@hotmail.com"));
+                client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
+
+                foreach (Cliente x in client)
+                {
+                    ListBox1.Items.Add(x.Codigo.ToString() + ", " + x.Razao.ToString() + " - (" + x.Telefone.ToString() + ")");
+                }
+            }
+            else
+            {
+                textBox1.Clear();
+                textBox2.Clear();
+                AcessoNegado acesso = new AcessoNegado();
+                acesso.ShowDialog();
+               
+            }
+            textBox1.Focus();
+
+
+        }
+
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if(e.KeyChar == 13)
+            {
+                textBox2.Focus();
             }
         }
 
-
+        private void textBox2_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if(e.KeyChar == 13)
+            {
+                btnLogar.Focus();
+            }
+        }
     }
 }

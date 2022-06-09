@@ -2,8 +2,8 @@
 {
     class User
     {
-        public int Login { get; set; }
-        public int Senha { get; set; }     
+        public string Login { get; set; }
+        public string Senha { get; set; }     
 
       
     }
