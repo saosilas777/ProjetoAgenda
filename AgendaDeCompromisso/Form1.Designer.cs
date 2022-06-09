@@ -31,7 +31,6 @@ namespace AgendaDeCompromisso
         {
             this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.ListBox1 = new System.Windows.Forms.ListBox();
-            this.label1 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
@@ -52,16 +51,6 @@ namespace AgendaDeCompromisso
             this.ListBox1.Name = "ListBox1";
             this.ListBox1.Size = new System.Drawing.Size(361, 381);
             this.ListBox1.TabIndex = 1;
-            // 
-            // label1
-            // 
-            this.label1.BackColor = System.Drawing.Color.White;
-            this.label1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label1.Location = new System.Drawing.Point(381, 53);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(417, 200);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "label1";
             // 
             // textBox1
             // 
@@ -104,7 +93,6 @@ namespace AgendaDeCompromisso
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.label1);
             this.Controls.Add(this.ListBox1);
             this.Controls.Add(this.dateTimePicker1);
             this.Name = "Form1";
@@ -119,7 +107,6 @@ namespace AgendaDeCompromisso
 
         private System.Windows.Forms.DateTimePicker dateTimePicker1;
         private System.Windows.Forms.ListBox ListBox1;
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Label label2;

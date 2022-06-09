@@ -24,9 +24,6 @@ namespace AgendaDeCompromisso
             
         }
 
-        public override string ToString()
-        {
-            return Codigo + " " + Razao + " " + Telefone + " " + Email;
-        }
+       
     }
 }

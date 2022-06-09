@@ -26,62 +26,13 @@ namespace AgendaDeCompromisso
             client.Add(new Cliente(024072, "I D ALVES", "86 30257897", "86988791492", "kopaf.parafusos@hotmail.com"));
             client.Add(new Cliente(024072, "I D ALVES", "86 30257897", "86988791492", "kopaf.parafusos@hotmail.com"));
             client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-            client.Add(new Cliente(0002340, "IVAN MACHADO & CIA. LTDA.", "81 34422943", "81 34311185", "norte_parafusos@outlook.com"));
-
+           
             foreach(Cliente x in client)
             {
-               
+                ListBox1.Text = x.Razao.ToString() + x.Codigo.ToString() + x.Telefone.ToString();
             }
         }
 
-        private void domainUpDown1_SelectedItemChanged(object sender, EventArgs e)
-        {
 
-        }
-
-        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
     }
 }

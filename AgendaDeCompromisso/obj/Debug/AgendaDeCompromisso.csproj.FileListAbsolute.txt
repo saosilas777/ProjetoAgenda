@@ -8,3 +8,13 @@ C:\Users\Silas\Documents\Projeto Agenda\AgendaDeCompromisso\AgendaDeCompromisso\
 C:\Users\Silas\Documents\Projeto Agenda\AgendaDeCompromisso\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.csproj.CoreCompileInputs.cache
 C:\Users\Silas\Documents\Projeto Agenda\AgendaDeCompromisso\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.exe
 C:\Users\Silas\Documents\Projeto Agenda\AgendaDeCompromisso\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.pdb
+D:\ProjetoAgenda\AgendaDeCompromisso\bin\Debug\AgendaDeCompromisso.exe.config
+D:\ProjetoAgenda\AgendaDeCompromisso\bin\Debug\AgendaDeCompromisso.exe
+D:\ProjetoAgenda\AgendaDeCompromisso\bin\Debug\AgendaDeCompromisso.pdb
+D:\ProjetoAgenda\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.csproj.AssemblyReference.cache
+D:\ProjetoAgenda\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.Form1.resources
+D:\ProjetoAgenda\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.Properties.Resources.resources
+D:\ProjetoAgenda\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.csproj.GenerateResource.cache
+D:\ProjetoAgenda\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.csproj.CoreCompileInputs.cache
+D:\ProjetoAgenda\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.exe
+D:\ProjetoAgenda\AgendaDeCompromisso\obj\Debug\AgendaDeCompromisso.pdb
