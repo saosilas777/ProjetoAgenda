@@ -17,11 +17,6 @@ namespace AgendaDeCompromisso
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnLogar_Click(object sender, EventArgs e)
         {
 
@@ -47,7 +42,8 @@ namespace AgendaDeCompromisso
 
                 foreach (Cliente x in client)
                 {
-                    ListBox1.Items.Add(x.Codigo.ToString() + ", " + x.Razao.ToString() + " - (" + x.Telefone.ToString() + ")");
+                    
+                    ListBox1.Items.Add(DateTime.Now.ToString("dd/MM/yyyy") + " " + x.ToString());
                 }
             }
             else
@@ -65,7 +61,12 @@ namespace AgendaDeCompromisso
 
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if(e.KeyChar == 13)
+            if (!char.IsDigit(e.KeyChar) && (e.KeyChar!= 8))
+            {
+                e.Handled = true;
+            }
+            
+            if (e.KeyChar == 13)
             {
                 textBox2.Focus();
             }
@@ -73,10 +74,22 @@ namespace AgendaDeCompromisso
 
         private void textBox2_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if(e.KeyChar == 13)
+            if (!char.IsDigit(e.KeyChar) && (e.KeyChar != 8))
+            {
+                e.Handled = true;
+            }
+
+            if (e.KeyChar == 13)
             {
                 btnLogar.Focus();
             }
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+      
     }
 }

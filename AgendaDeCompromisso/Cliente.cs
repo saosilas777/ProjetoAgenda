@@ -8,11 +8,12 @@ namespace AgendaDeCompromisso
 {
     class Cliente
     {
-        public int Codigo { get; set; }
-        public string Razao { get; set; } 
-        public string Telefone { get; set; }
-        public string Whatsapp { get; set; }
-        public string Email { get; set; }
+        private int Codigo { get; set; }
+        private string Razao { get; set; }
+        private string Telefone { get; set; }
+        private string Whatsapp { get; set; }
+        private string Email { get; set; }
+        
 
         public Cliente(int codigo, string razao, string telefone, string whatsapp, string email)
         {
@@ -21,9 +22,14 @@ namespace AgendaDeCompromisso
             Telefone = telefone;
             Whatsapp = whatsapp;
             Email = email;
-            
+
         }
 
-       
+        public override string ToString()
+        {
+            return "Id: " + Codigo + ", Razão: " + Razao;
+        }
+
+
     }
 }

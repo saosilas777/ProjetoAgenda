@@ -50,7 +50,7 @@ namespace AgendaDeCompromisso
             this.ListBox1.FormattingEnabled = true;
             this.ListBox1.Location = new System.Drawing.Point(13, 53);
             this.ListBox1.Name = "ListBox1";
-            this.ListBox1.Size = new System.Drawing.Size(361, 381);
+            this.ListBox1.Size = new System.Drawing.Size(361, 394);
             this.ListBox1.TabIndex = 1;
             // 
             // textBox1
@@ -59,6 +59,7 @@ namespace AgendaDeCompromisso
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(67, 20);
             this.textBox1.TabIndex = 3;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             this.textBox1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
             // 
             // textBox2
@@ -112,7 +113,6 @@ namespace AgendaDeCompromisso
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
